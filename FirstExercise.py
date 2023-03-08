@@ -13,8 +13,6 @@ def sum_Of_Squares(n):
 
     return sum_of_numbers
 
-
-
 def test_sum():
     #Let's test the sum first.
     passed = True
