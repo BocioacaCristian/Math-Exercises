@@ -1,0 +1,1 @@
+#- Find the sum of the squares of the first n natural numbers
